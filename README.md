@@ -1,0 +1,2 @@
+# vedio_generator
+一个利用chatgpt搭建的视频脚本生成
